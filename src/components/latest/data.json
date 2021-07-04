@@ -1,0 +1,17 @@
+[
+    {
+        "title": "iPhone 12 Pro Max",
+        "description":"The most powerfull iPhone ever",
+        "img":"https://images.unsplash.com/photo-1617997455403-41f333d44d5b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+    },
+    {
+        "title": "Sony headphones wh-1000xm4",
+        "description":"Feel the life without noise",
+        "img":"https://images.unsplash.com/photo-1586343797367-c8942268df67?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "title": "Macbook Pro 13\"",
+        "description":"Laptop with the brand new CPU",
+        "img":"https://images.unsplash.com/photo-1537498425277-c283d32ef9db?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=757&q=80"
+    }
+]
