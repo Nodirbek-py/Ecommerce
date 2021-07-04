@@ -1,0 +1,84 @@
+.navbar-background {
+    background: #fefefe;
+    box-shadow: 0 .1px 10px #000;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+    padding: 0 25px;
+}
+
+.navbar img {
+    width: 24px;
+}
+
+.navbar__left,
+.navbar__right,
+.navbar__search {
+    display: flex;
+    align-items: center;
+}
+
+.navbar__brand {
+    font-size: 32px;
+    font-weight: 200;
+    letter-spacing: -1px;
+}
+
+.brand__odd {
+    font-weight: 500;
+    color: #ffbf00;
+}
+
+.navbar__search {
+    margin-left: 50px;
+}
+
+.search__input {
+    width: 250px;
+    outline: none;
+    border: none;
+    padding: 3px 5px;
+}
+
+.search__input:focus+.search__line:after {
+    content: "";
+    display: inline-block;
+    position: absolute;
+    top: 50px;
+    left: 180px;
+    height: 0.1px;
+    background: #909090;
+    width: 280px;
+    animation-name: search_line;
+    animation-duration: 0.4s;
+    animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+}
+
+.navbar__language,
+.navbar__cart {
+    margin: 0 25px;
+}
+
+.navbar__account {
+    margin: 0 0 0 25px;
+}
+
+.language__name {
+    font-weight: 300;
+}
+
+@keyframes search_line {
+    from {
+        width: 0
+    }
+
+    to {
+        width: 280px;
+    }
+}
