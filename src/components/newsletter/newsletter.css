@@ -1,0 +1,43 @@
+.newsletter {
+    width: 80%
+}
+
+.newsletter__box {
+    margin: 50px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 70px 30px;
+    border: 1px solid #ddd;
+}
+
+.newsletter__title {
+    font-size: 32px;
+    font-weight: 300;
+}
+
+.newsletter__form {
+    display: flex;
+    align-items: center;
+}
+
+.newsletter__input {
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #202020;
+    padding: 10px 5px;
+}
+
+.newsletter__btn {
+    outline: none;
+    border: 1px solid #ddd;
+    padding: 10px 20px;
+    margin-left: -0px;
+    background: transparent;
+}
+
+.newsletter__btn:hover {
+    cursor: pointer;
+    background: #ddd;
+    transition: 0.4s cubic-bezier(0.23, 1, 0.320, 1)
+}
