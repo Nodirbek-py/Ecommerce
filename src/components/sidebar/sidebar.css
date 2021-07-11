@@ -1,16 +1,18 @@
 .sidebar {
     padding: 25px;
-    box-shadow: 2px 0px 3px #ddd;
+    position: fixed;
+    width: 100%;
+    top: 40px;
 }
 
-.sidebar__category {}
-
-.category {
+.sidebar__category {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     margin: 15px 0;
 }
+
+.category {}
 
 .sidebar__title {
     margin-bottom: 5px;
@@ -19,7 +21,8 @@
     text-transform: capitalize;
 }
 
-.subcategory ul{
+.subcategory ul {
+    overflow: hidden;
     border-left: 1px solid #ddd;
 }
 
@@ -27,4 +30,20 @@
     list-style: none;
     padding-left: 10px;
     text-transform: capitalize;
+    transform: translateY(-200%);
+    animation-name: subcategory-anim;
+    animation-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
+    animation-duration: 0.4s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+@keyframes subcategory-anim {
+    from {
+        transform: translateY(-200%);
+    }
+
+    to {
+        transform: translateY(0%);
+    }
 }

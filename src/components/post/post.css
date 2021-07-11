@@ -1,0 +1,24 @@
+.post {
+    padding: 10px 5px;
+}
+
+.post img {
+    height: 60%;
+}
+
+.product__title {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.product__category {
+    text-transform: capitalize;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+.product__price {
+    text-align: end;
+    font-size: 20px;
+    font-weight: 500;
+}

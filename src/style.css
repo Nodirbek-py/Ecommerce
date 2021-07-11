@@ -40,3 +40,7 @@ a {
     grid-template-columns: 1fr 4fr;
     gap: 10px;
 }
+
+.home,.list{
+    margin-top: 70px;
+}

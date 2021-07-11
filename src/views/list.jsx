@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Sidebar from "../components/sidebar/sidebar";
+import Posts from "../components/posts/posts"
 class List extends Component {
     state = {};
     render() {
@@ -8,7 +9,9 @@ class List extends Component {
                 <div className="list__sidebar">
                     <Sidebar />
                 </div>
-                <div className="list__main"></div>
+                <div className="list__main">
+                    <Posts/>
+                </div>
             </div>
         );
     }
