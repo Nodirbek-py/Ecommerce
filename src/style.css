@@ -29,7 +29,14 @@ h6,
 span,
 input,
 button,
+li,
 a {
     font-family: 'Dosis', sans-serif;
     color: #202020;
+}
+
+.list{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    gap: 10px;
 }
