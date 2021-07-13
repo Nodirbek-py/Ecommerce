@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Navbar from "./components/navbar/navbar";
 import Footer from "./components/footer/footer";
 import Home from "./views/home";
+import SideBar from "./components/listPage/sidebar/index";
 import "./style.css";
 
 const App = () => {
@@ -19,7 +20,7 @@ const App = () => {
     // </Router>
     <>
       <Navbar />
-      <Home />
+      <SideBar />
       <Footer />
     </>
   );
