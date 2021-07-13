@@ -7,9 +7,6 @@ class Detail extends React.Component {
     state = {
         data: products[this.props.match.params.id - 1],
     };
-    componentDidMount() {
-        console.log(this.state);
-    }
     render() {
         return (
             <div className="detail container">
