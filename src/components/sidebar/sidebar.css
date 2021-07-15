@@ -47,3 +47,8 @@
         transform: translateY(0%);
     }
 }
+
+.sidebar__title:hover, .subcategory li:hover{
+    cursor: pointer;
+    color: #606060;
+}
