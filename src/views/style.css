@@ -1,0 +1,58 @@
+.detail__top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.detail__top>div {
+    padding: 25px;
+    width: 50%;
+}
+
+.detail__title {
+    font-weight: 700;
+}
+
+.detail__description {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.detail__price {
+    text-transform: capitalize;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+.detail__amount{
+    font-size:20px;
+    margin-right: 10px;
+}
+
+.detail__color {
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.detail__info h1,
+.detail__info h2 {
+    margin: 10px 0;
+}
+
+.detail__input {
+    font-size: 20px;
+    padding: 5px;
+    width: 99px;
+    border: 1px solid #303030;
+    outline: none;
+    margin-right: 25px;
+}
+
+.detail__btn {
+    padding: 5px 30px;
+    font-size: 20px;
+    font-weight: 600;
+    background: transparent;
+    border: 1px solid #303030;
+    cursor: pointer;
+}
