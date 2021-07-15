@@ -5,8 +5,7 @@ class Sidebar extends Component {
     smartphoneHidden: true,
     tabletHidden: true,
     laptopHidden: true,
-    accessoryHidden: true,
-    filters: [],
+    accessoryHidden: true
   };
 
   render(props) {
