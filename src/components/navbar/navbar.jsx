@@ -28,10 +28,14 @@ class Navbar extends Component {
                             <h3 className="language__name">Eng</h3>
                         </div>
                         <div className="navbar__cart">
-                            <img src={cart} alt="" />
+                            <a href="/cart">
+                                <img src={cart} alt="" />
+                            </a>
                         </div>
                         <div className="navbar__account">
-                            <img src={account} alt="" />
+                            <a href="/account">
+                                <img src={account} alt="" />
+                            </a>
                         </div>
                     </div>
                 </div>

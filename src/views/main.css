@@ -24,8 +24,8 @@
     font-size: 30px;
 }
 
-.detail__amount{
-    font-size:20px;
+.detail__amount {
+    font-size: 20px;
     margin-right: 10px;
 }
 
@@ -55,4 +55,44 @@
     background: transparent;
     border: 1px solid #303030;
     cursor: pointer;
+}
+
+.cart__item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+.item__img {
+    width: 64px !important;
+}
+
+.cart__checkout {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.cart__checkout button {
+    background: transparent;
+    padding: 5px 25px;
+    margin: 10px 0;
+}
+
+.account,
+.account__header,
+.account__col,
+.account__main {
+    margin-top: 50px;
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.account__img img {
+    width: 45px;
+    border-radius: 50%;
+    margin-right: 15px;
 }

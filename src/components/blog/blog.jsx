@@ -29,7 +29,7 @@ class Blog extends Component {
                             </a>
                         );
                     })}
-                    <a href="/">
+                    <a href="/blog">
                         <div className="blog__card last">
                             <h1 className="post__title">See all</h1>
                         </div>

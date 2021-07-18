@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Slider from "react-animated-slider";
 import "react-animated-slider/build/horizontal.css";
-import "./style.css";
+import "./main.css";
 const products = require("../components/posts/posts_data.json");
 class Detail extends React.Component {
     state = {

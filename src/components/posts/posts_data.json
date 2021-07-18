@@ -7,6 +7,7 @@
         "img3": "http://dummyimage.com/196x100.png/5fa2dd/ffffff",
         "price": "$1175.07",
         "category": "accessories",
+        "subcategory":"for phone",
         "description": "velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean",
         "color": "black"
     },
@@ -19,6 +20,7 @@
         "img3": "http://dummyimage.com/162x100.png/ff4444/ffffff",
         "price": "$858.66",
         "category": "laptops",
+        "subcategory":"15-17 inches",
         "description": "velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper",
         "color": "grey"
     },
@@ -31,6 +33,7 @@
         "img3": "http://dummyimage.com/215x100.png/cc0000/ffffff",
         "price": "$481.30",
         "category": "accessories",
+        "subcategory":"for phone",
         "description": "dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc",
         "color": "silver"
     },
@@ -43,6 +46,7 @@
         "img3": "http://dummyimage.com/192x100.png/5fa2dd/ffffff",
         "price": "$1146.96",
         "category": "tablets",
+        "subcategory":"big",
         "description": "justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam",
         "color": "grey"
     },
@@ -55,6 +59,7 @@
         "img3": "http://dummyimage.com/157x100.png/cc0000/ffffff",
         "price": "$1236.65",
         "category": "accessories",
+        "subcategory":"for laptop",
         "description": "condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu",
         "color": "silver"
     },
@@ -67,6 +72,7 @@
         "img3": "http://dummyimage.com/138x100.png/ff4444/ffffff",
         "price": "$716.64",
         "category": "laptops",
+        "subcategory":"15-17 inches",
         "description": "in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient",
         "color": "silver"
     },
@@ -79,6 +85,7 @@
         "img3": "http://dummyimage.com/162x100.png/5fa2dd/ffffff",
         "price": "$1366.77",
         "category": "smartphones",
+        "subcategory":"gaming",
         "description": "lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla",
         "color": "grey"
     },
@@ -91,6 +98,7 @@
         "img3": "http://dummyimage.com/107x100.png/5fa2dd/ffffff",
         "price": "$704.96",
         "category": "accessories",
+        "subcategory":"for laptop",
         "description": "nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta",
         "color": "white"
     },
@@ -103,6 +111,7 @@
         "img3": "http://dummyimage.com/215x100.png/ff4444/ffffff",
         "price": "$1423.38",
         "category": "tablets",
+        "subcategory":"small",
         "description": "ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem",
         "color": "silver"
     },
@@ -115,6 +124,7 @@
         "img3": "http://dummyimage.com/247x100.png/5fa2dd/ffffff",
         "price": "$491.02",
         "category": "accessories",
+        "subcategory":"for laptop",
         "description": "velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris",
         "color": "gold"
     },
@@ -127,6 +137,7 @@
         "img3": "http://dummyimage.com/186x100.png/ff4444/ffffff",
         "price": "$555.35",
         "category": "accessories",
+        "subcategory":"for laptop",
         "description": "tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis",
         "color": "grey"
     },
@@ -139,6 +150,7 @@
         "img3": "http://dummyimage.com/209x100.png/dddddd/000000",
         "price": "$509.81",
         "category": "laptops",
+        "subcategory":"15-17 inches",
         "description": "eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla",
         "color": "grey"
     },
@@ -151,6 +163,7 @@
         "img3": "http://dummyimage.com/119x100.png/5fa2dd/ffffff",
         "price": "$1174.40",
         "category": "laptops",
+        "subcategory":"15-17 inches",
         "description": "aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend",
         "color": "black"
     },
@@ -163,6 +176,7 @@
         "img3": "http://dummyimage.com/179x100.png/dddddd/000000",
         "price": "$842.54",
         "category": "smartphones",
+        "subcategory":"gaming",
         "description": "et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque",
         "color": "black"
     },
@@ -175,6 +189,7 @@
         "img3": "http://dummyimage.com/207x100.png/ff4444/ffffff",
         "price": "$728.71",
         "category": "accessories",
+        "subcategory":"for phone",
         "description": "nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat",
         "color": "white"
     },
@@ -187,6 +202,7 @@
         "img3": "http://dummyimage.com/186x100.png/ff4444/ffffff",
         "price": "$556.39",
         "category": "laptops",
+        "subcategory":"12-14 inches",
         "description": "vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar",
         "color": "gold"
     },
@@ -199,6 +215,7 @@
         "img3": "http://dummyimage.com/229x100.png/cc0000/ffffff",
         "price": "$880.61",
         "category": "tablets",
+        "subcategory":"small",
         "description": "duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse",
         "color": "white"
     },
@@ -211,6 +228,7 @@
         "img3": "http://dummyimage.com/206x100.png/dddddd/000000",
         "price": "$566.85",
         "category": "tablets",
+        "subcategory":"small",
         "description": "nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus",
         "color": "white"
     },
@@ -223,6 +241,7 @@
         "img3": "http://dummyimage.com/120x100.png/cc0000/ffffff",
         "price": "$1057.83",
         "category": "smartphones",
+        "subcategory":"gaming",
         "description": "nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices",
         "color": "gold"
     },
@@ -235,6 +254,7 @@
         "img3": "http://dummyimage.com/199x100.png/cc0000/ffffff",
         "price": "$567.26",
         "category": "tablets",
+        "subcategory":"small",
         "description": "purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst",
         "color": "white"
     },
@@ -247,6 +267,7 @@
         "img3": "http://dummyimage.com/111x100.png/5fa2dd/ffffff",
         "price": "$780.27",
         "category": "tablets",
+        "subcategory":"small",
         "description": "rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo",
         "color": "silver"
     },
@@ -259,6 +280,7 @@
         "img3": "http://dummyimage.com/191x100.png/ff4444/ffffff",
         "price": "$1040.47",
         "category": "smartphones",
+        "subcategory":"gaming",
         "description": "nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper",
         "color": "grey"
     },
@@ -271,6 +293,7 @@
         "img3": "http://dummyimage.com/233x100.png/cc0000/ffffff",
         "price": "$457.22",
         "category": "laptops",
+        "subcategory":"12-14 inches",
         "description": "diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna",
         "color": "black"
     },
@@ -283,6 +306,7 @@
         "img3": "http://dummyimage.com/109x100.png/cc0000/ffffff",
         "price": "$1216.04",
         "category": "smartphones",
+        "subcategory":"gaming",
         "description": "praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante",
         "color": "white"
     },
@@ -295,6 +319,7 @@
         "img3": "http://dummyimage.com/104x100.png/5fa2dd/ffffff",
         "price": "$838.19",
         "category": "tablets",
+        "subcategory":"big",
         "description": "proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec",
         "color": "silver"
     },
@@ -307,6 +332,7 @@
         "img3": "http://dummyimage.com/111x100.png/ff4444/ffffff",
         "price": "$1344.83",
         "category": "smartphones",
+        "subcategory":"casual",
         "description": "curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus",
         "color": "gold"
     },
@@ -319,6 +345,7 @@
         "img3": "http://dummyimage.com/151x100.png/cc0000/ffffff",
         "price": "$929.17",
         "category": "accessories",
+        "subcategory":"for phone",
         "description": "turpis enim blandit mi in porttitor pede justo eu massa donec",
         "color": "gold"
     },
@@ -331,6 +358,7 @@
         "img3": "http://dummyimage.com/227x100.png/ff4444/ffffff",
         "price": "$1312.31",
         "category": "tablets",
+        "subcategory":"big",
         "description": "penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio",
         "color": "black"
     },
@@ -343,6 +371,7 @@
         "img3": "http://dummyimage.com/212x100.png/cc0000/ffffff",
         "price": "$1360.92",
         "category": "laptops",
+        "subcategory":"12-14 inches",
         "description": "primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet",
         "color": "silver"
     },
@@ -355,6 +384,7 @@
         "img3": "http://dummyimage.com/188x100.png/cc0000/ffffff",
         "price": "$554.00",
         "category": "laptops",
+        "subcategory":"12-14 inches",
         "description": "magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor",
         "color": "grey"
     },
@@ -367,6 +397,7 @@
         "img3": "http://dummyimage.com/135x100.png/cc0000/ffffff",
         "price": "$1426.47",
         "category": "tablets",
+        "subcategory":"big",
         "description": "felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at",
         "color": "silver"
     },
@@ -379,6 +410,7 @@
         "img3": "http://dummyimage.com/126x100.png/5fa2dd/ffffff",
         "price": "$1060.81",
         "category": "accessories",
+        "subcategory":"for phone",
         "description": "lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum",
         "color": "black"
     }

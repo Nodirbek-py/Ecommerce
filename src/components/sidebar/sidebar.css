@@ -38,6 +38,13 @@
     animation-fill-mode: forwards;
 }
 
+.sidebar__btn{
+    padding: 5px 25px;
+    font-weight: 700;
+    font-size:18px;
+    background: transparent;
+}
+
 @keyframes subcategory-anim {
     from {
         transform: translateY(-200%);
